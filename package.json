@@ -10,6 +10,7 @@
   "dependencies": {
     "bufferutil": "^3.0.5",
     "discord.js": "^11.3.2",
+    "discord.js-commando": "^0.10.0",
     "libsodium-wrappers": "^0.7.3",
     "opusscript": "0.0.6",
     "pm2": "^2.10.4",
