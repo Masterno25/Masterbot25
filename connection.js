@@ -71,4 +71,4 @@ client.on("ready", () => {
   client.user.setActivity({game: {name: 'C est un test', type: 0}});
 });
 
-bot.login('NDQ4NTM2MDQyMTYxODMxOTM3.De3OKA.gDGtxIGShFmal2OKwuk9b6RBkTE')
+bot.login(process.env.)
