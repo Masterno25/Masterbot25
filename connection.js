@@ -1,5 +1,4 @@
 const Discord = require('discord.js')
-const token = 'NDQ4NTM2MDQyMTYxODMxOTM3.De3OKA.gDGtxIGShFmal2OKwuk9b6RBkTE'
 const client = new Discord.Client()
 const bot = new Discord.Client();
 require("opusscript");
